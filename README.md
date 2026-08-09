@@ -3,7 +3,7 @@
 A raster-based flood risk assessment pipeline that runs on real GeoTIFF imagery
 and a shapefile Area-of-Interest (AOI). It maps flood inundation from a DEM,
 extracts flood extent from before/after satellite scenes, and combines the
-result with land cover into a multi-criteria risk map — all clipped to your AOI
+result with land cover into a multi-criteria risk map — all clipped to AOI
 and written back out as georeferenced GeoTIFFs you can open in QGIS or ArcGIS.
 
 This module is the applications capstone of the wider remote-sensing pipeline:
